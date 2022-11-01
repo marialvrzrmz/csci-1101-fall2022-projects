@@ -1,0 +1,17 @@
+p
+{
+    color: salmon;
+}
+
+.header-background
+{
+    background-color: bisque;
+    color: darksalmon;
+    text-decoration: underline;
+}
+
+#bigger-font
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 32px;
+}
